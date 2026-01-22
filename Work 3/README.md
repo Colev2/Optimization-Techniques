@@ -1,3 +1,7 @@
-# Work 3
+# Work 3 – Constrained Optimization
 
-This assignment is about minimizing a function with constraints, using the Projected Gradient Descent Method
+This assignment focuses on the minimization of a two-variable function
+subject to constraints.
+
+## Method Implemented
+- Projected Gradient Descent (Steepest Descent with Projection)
