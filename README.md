@@ -26,5 +26,5 @@ Minimization of a two-variable function under constraints using:
 - Projected Gradient Descent Method
 
 ## Structure
-Each work is contained in a separate folder (`Work_1`, `Work_2`, `Work_3`)
+Each work is contained in a separate folder (`Work 1`, `Work 2`, `Work 3`)
 and includes the corresponding implementation and report.
