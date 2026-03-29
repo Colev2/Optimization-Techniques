@@ -26,7 +26,7 @@ Minimization of a two-variable function under constraints using:
 - Projected Gradient Descent Method
 
 ### Project: Genetic Algorithms
-Function approximation with weighted Gaussians, where weights are calculated through a Genetic Algorithm
+Function approximation using weighted Gaussian functions, with weights optimized via a Genetic Algorithm.
 
 ## Structure
 Each work is contained in a separate folder (`Work 1`, `Work 2`, `Work 3`)
